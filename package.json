@@ -1,0 +1,15 @@
+{
+  "name": "napjs",
+  "version": "1.0.0",
+  "description": "CLI Alarm Clock",
+  "bin": {
+    "napjs": "./index.js"
+  },
+  "author": "Aria Fallah",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "ora": "^1.2.0",
+    "say": "^0.11.0"
+  }
+}
